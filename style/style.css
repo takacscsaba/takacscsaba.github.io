@@ -5,13 +5,10 @@ img {
 body {
 	margin: 0;
 	font-family: 'Hanalei Fill', cursive;
+	background-color: forestgreen;
+	color: rebeccapurple;
 }
 
-article {
-	width: 50%;
-	margin: auto;
-}
-
-h1, h2 {
+h1, p {
 	text-align: center;
 }
