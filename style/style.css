@@ -3,6 +3,7 @@ img {
 }
 
 body {
+	font-size: 40px;
 	margin: 0;
 	font-family: 'Hanalei Fill', cursive;
 	background-color: forestgreen;
